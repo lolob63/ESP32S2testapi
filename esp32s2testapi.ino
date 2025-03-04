@@ -1,8 +1,11 @@
 /*
+LB 04/03/2025
+Lycée La Fayette
+
 Carte ESP32S2 avec un capteur AHT20 et une LED RGB
 Commande de cette carte via api REST de la carte
 Mise à l'heure de la carte avec un serveur NTP
-utilisation du module RTC de la
+utilisation du module RTC
 
 https://microcontrollerslab.com/esp32-rest-api-web-server-get-post-postman/
 
